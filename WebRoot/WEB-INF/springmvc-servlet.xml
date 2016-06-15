@@ -42,7 +42,7 @@
 
 	</bean>
 
-	<!-- 前缀+viewName -->
+	<!-- 前缀+viewName+后缀 -->
 	<bean
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<!-- webroot到某一指定文件夹的路径 -->
